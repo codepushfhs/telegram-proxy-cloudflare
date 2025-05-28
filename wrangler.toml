@@ -1,4 +1,4 @@
-name = "telegram-proxy-cloudflare"
+name = "proxy-cf"
 type = "javascript"
 main = "bot-proxy.js"
 compatibility_date = "2025-05-28"
