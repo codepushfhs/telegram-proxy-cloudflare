@@ -1,1 +1,4 @@
-
+name = "telegram-proxy-cloudflare"
+type = "javascript"
+main = "bot-proxy.js"
+compatibility_date = "2025-05-28"
